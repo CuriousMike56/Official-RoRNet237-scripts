@@ -68,7 +68,7 @@ void customCommand_boost(chatMessage@ cmsg)
 {
 	cmsg.privateGameCommand.boostCurrentTruck(5);
 }
-//Extra boost commands
+// Extra boost commands
 customCommand boost2Command(@chatSystem, "boost2", customCommand_boost2);
 void customCommand_boost2(chatMessage@ cmsg)
 {
