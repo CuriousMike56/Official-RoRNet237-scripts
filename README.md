@@ -6,7 +6,7 @@ Scripts used by the Official Rigs of Rods Legacy servers. original scripts by Ne
 
 - Place the `scripts` folder in the same place as your rorserver binary.
 
-- In your server's `.cfg` file, add (or edit) this line:
+- In your server's `.cfg` file, add (or edit) the `scriptname` line:
 
 ```
 
