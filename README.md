@@ -1,4 +1,4 @@
-# Offical RoRNet 2.37 Scripts
+# Official RoRNet 2.37 Scripts
 
 Scripts used by the Official Rigs of Rods Legacy servers. original scripts by Neorej16.
 
