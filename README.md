@@ -13,7 +13,7 @@ Scripts used by the Official Rigs of Rods Legacy servers. original scripts by Ne
 ## The scriptname to use.
 ## If you want to use a script, then put the path and filename of your scriptfile here.
 ## syntax: scriptname = <filename>
-scriptname = /path/to/scripts/Main.as
+scriptname = scripts/Main.as
 
 ```
 - Restart the server.
