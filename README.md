@@ -4,7 +4,7 @@ Scripts used by the Official Rigs of Rods Legacy servers. original scripts by Ne
 
 ## How to install:
 
-- Place the `scripts` folder in the same place as your rorserver binary.
+- Place the `scripts` folder in the same place as your rorserver binary -> `resources` folder. You may have to input the full path.
 
 - In your server's `.cfg` file, add (or edit) the `scriptname` line:
 
